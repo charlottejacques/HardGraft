@@ -1,2 +1,0 @@
-# HardGraft
-Notre première intégration
